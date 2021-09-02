@@ -12,8 +12,8 @@ Assembly is the exact same as the primary AB-BN, just use the new fan front part
 ## Changelog
 
 **2021-09-02**
-Increase z tolerance
-Flipped insets STL so smooth surface is forward facing, feel free to flip over if using ironing
+- Increase z tolerance
+- Flipped insets STL so smooth surface is forward facing, feel free to flip over if using ironing
 
 **2021-09-01**
-Initial release
+- Initial release
