@@ -1,6 +1,6 @@
 # AB-BN-30 Logo Mod
 
-![Picture of mod](Images/ABBN30-LogoModv2.jpg)
+![Picture of mod](Images/ABBN30-LogoModv5.png)
 
 This is a small modification of [BadNoob's AB-BN](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Badnoob/AB-BN) hotend, replacing the wordmark on the front with the Voron logo or a plain front.
 
