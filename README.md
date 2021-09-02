@@ -7,4 +7,4 @@ This is a small modification of [BadNoob's AB-BN](https://github.com/VoronDesign
 ## BOM
 Print either the `ab-bn-30-FAN-front-plain.stl` or `ab-bn-30-FAN-front-logo.stl` and appropriate inset piece. There are 3 available with difference tolerances (0.1mm - 0.3mm) to get a good fit.
 
-Assembly is the exact same as the primary AB-BN, just use the new fan front part.# AB-BN-Logo-Mod
+Assembly is the exact same as the primary AB-BN, just use the new fan front part.
